@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+#jmsa-adminmenu-menuitems li .jmsa-menuitem-title * { display: none; }
+#jmsa-adminmenu-menuitems .jmsa-menuitem-title { font-weight: bold; }
+#jmsa-adminmenu-menuitems li ul { margin-left: 16px;}
+#jmsa-adminmenu-menuitems li li { margin-bottom: 0px;}
+#jmsa-adminmenu-menuitems li ul .jmsa-menuitem-title { font-weight: normal; }
